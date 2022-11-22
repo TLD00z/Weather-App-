@@ -1,5 +1,5 @@
 import React,{ useState , useEffect } from 'react';
-import './App.css';
+//import './App.css';
 
 const api ={
   key:"0319cb26b3cf9caa8ea2d7f688f6663d",
